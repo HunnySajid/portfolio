@@ -1,15 +1,15 @@
 ---
-date: '2016-04-01'
-title: 'CourseSource'
-github: 'https://github.com/bchiang7/WebDevSpring2016/tree/master/public/project'
+date: '2023-04-14'
+title: 'Signify Browser Extension'
+github: 'https://github.com/WebOfTrust/signify-browser-extension'
 external: ''
 tech:
-  - Angular
-  - Node
-  - Express
-  - MongoDB
-company: 'Northeastern'
-showInProjects: false
+  - Browser Extension
+  - React
+  - Styled Components
+  - CSS Animations
+company: 'RootsID'
+showInProjects: true
 ---
 
-Web application built on the MEAN (MongoDB, Express, Angular, Node) stack with the intention of providing Northeastern students a better experience browsing the courses offered at Northeastern.
+The primary goal of this extension is to provide a secure way to sign in to websites without disclosing private keys to untrusted websites.
