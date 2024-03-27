@@ -5,6 +5,15 @@ company: 'RootsID'
 location: 'North America (remote)'
 range: 'Dec 2022 - Present'
 url: 'https://www.rootsid.com/'
+skills:
+  [
+    'Browser Extension',
+    'React Native',
+    'Next.js',
+    'Styled Component',
+    'Product Design',
+    'Open Source',
+  ]
 ---
 
 - As a product engineer, build user experiences for Self-Sovereign Identity solutions to enhance usability and security

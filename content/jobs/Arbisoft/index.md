@@ -5,6 +5,8 @@ company: 'Arbisoft'
 location: 'Lahore, PK'
 range: 'December 2019 & Aug 2020'
 url: 'https://arbisoft.com/'
+skills:
+  ['UI Development', 'React | React Native', 'Typescript', 'Performance Optimization', 'Tailwind']
 ---
 
 - Developed a healthcare app for a startup in React Native, taking it from concept to a fully functional product

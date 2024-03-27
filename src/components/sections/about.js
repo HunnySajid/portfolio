@@ -130,6 +130,8 @@ const About = () => {
     'TypeScript',
     'React',
     'React Native',
+    'Next.js',
+    'Remix.js',
     'HTML & CSS/SCSS',
     'Svelte',
   ];

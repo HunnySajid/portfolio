@@ -5,6 +5,7 @@ company: 'Creative Chaos'
 location: 'Lahore, PK (remote)'
 range: 'August 2020 - July 2021'
 url: 'https://creativechaos.co/'
+skills: ['Frontend System Design', 'React', 'Typescript', 'GraphQL', 'Express.js', 'PostgresQL']
 ---
 
 - Worked as an augmented resource for a client named Litterati

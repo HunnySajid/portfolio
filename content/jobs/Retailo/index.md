@@ -5,6 +5,7 @@ company: 'Retailo'
 location: 'Riyadh, KSA (remote)'
 range: 'June 2021 - December 2022'
 url: 'https://retailo.co/'
+skills: ['Team Lead', 'React Native', 'Component Library', 'Nest.js', 'PostgresQL', 'Docker']
 ---
 
 - Enhanced and fixed existing customer-facing features in mobile app, resulting in a 12% decrease in reported errors

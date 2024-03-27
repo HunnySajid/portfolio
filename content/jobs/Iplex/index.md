@@ -5,6 +5,7 @@ company: 'Iplex'
 location: 'Rawalpindi, PK'
 range: 'September 2018 - December 2019'
 url: 'https://www.iplex.co/'
+skills: ['Serverless', 'Cloud', 'PostgresQL', 'Query Tuning', 'React']
 ---
 
 - Led full-stack efforts, utilizing React, Firebase, and Node.js, resulting in smooth project delivery and improvement in application performance
