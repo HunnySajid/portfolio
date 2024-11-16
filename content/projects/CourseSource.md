@@ -1,10 +1,11 @@
 ---
 date: '2023-04-14'
-title: 'Signify Browser Extension'
+title: 'Polaris Browser Extension'
 github: 'https://github.com/WebOfTrust/signify-browser-extension'
-external: ''
+external: 'https://chromewebstore.google.com/detail/polaris/jmbebhefpkdgkoecphlpdfgkbgjjhhie'
 tech:
   - Browser Extension
+  - Verifiable Credentials
   - React
   - Styled Components
   - CSS Animations

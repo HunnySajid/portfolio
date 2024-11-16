@@ -3,7 +3,7 @@ date: '2017-11-14'
 title: 'Mobile Game Engineer'
 company: 'Cubix Labs'
 location: 'Karachi, PK'
-range: 'Nov 2017 - Aug 2018'
+range: 'November 2017 - August 2018'
 url: 'https://www.cubix.co/'
 skills: ['Unity', 'Game Development', 'Multiplayer', 'Mobile Ads', 'Animation']
 ---

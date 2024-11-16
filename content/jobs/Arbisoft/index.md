@@ -3,7 +3,7 @@ date: '2019-12-01'
 title: 'Frontend Engineer'
 company: 'Arbisoft'
 location: 'Lahore, PK'
-range: 'December 2019 & Aug 2020'
+range: 'December 2019 - August 2020'
 url: 'https://arbisoft.com/'
 skills:
   ['UI Development', 'React | React Native', 'Typescript', 'Performance Optimization', 'Tailwind']
